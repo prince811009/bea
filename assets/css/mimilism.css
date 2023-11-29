@@ -4356,7 +4356,7 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
 }
 
 .dk-footer.dk-footer-light > .dk-footer-copyright {
-    color: #7a7a7a;
+    color: #464646;
     background-color: #f3f3f3;
 }
 
@@ -4368,13 +4368,13 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
 .dk-footer-copyright {
     padding: 66px 0 68px;
     font-size: .95rem;
-    color: #7a7a7a;
+    color: #464646;
     text-align: center;
     background-color: #202020;
 }
 
 .dk-footer-copyright.dk-footer-light {
-    color: #7a7a7a;
+    color: #464646;
     background-color: #eaeaea;
 }
 
@@ -4565,11 +4565,11 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
     color: #fff;
 }
 
-.dk-social-links > li > *.dk-social-behance {
+.dk-social-links > li > *.dk-social-line {
     color: #fff;
 }
 
-.dk-social-links > li > *.dk-social-behance:hover, .dk-social-links > li > *.dk-social-behance.hover {
+.dk-social-links > li > *.dk-social-line:hover, .dk-social-links > li > *.dk-social-line.hover {
     color: #487cfb;
 }
 
@@ -4650,6 +4650,14 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
 }
 
 .dk-social-links > li > *.dk-social-instagram:hover, .dk-social-links > li > *.dk-social-instagram.hover {
+    color: #d12054;
+}
+
+.dk-social-links > li > *.dk-social-youtube {
+    color: #fff;
+}
+
+.dk-social-links > li > *.dk-social-youtube:hover, .dk-social-links > li > *.dk-social-youtube.hover {
     color: #d12054;
 }
 
@@ -4802,7 +4810,7 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
 }
 
 .dk-social-links.dk-social-links-dark > li > *, .dk-social-links.dk-social-links-dark > li > *:hover, .dk-social-links.dk-social-links-dark > li > *:focus, .dk-social-links.dk-social-links-dark > li > *:active {
-    color: #858585;
+    color: #464646;
 }
 
 .dk-social-links.dk-social-links-dark > li > *:hover, .dk-social-links.dk-social-links-dark > li > *.hover {
@@ -4819,11 +4827,11 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
 
 .dk-social-links.dk-social-links-light > li > * {
     font-size: 1.1rem;
-    color: #858585;
+    color: #464646;
 }
 
 .dk-social-links.dk-social-links-light > li > *, .dk-social-links.dk-social-links-light > li > *:hover, .dk-social-links.dk-social-links-light > li > *:focus, .dk-social-links.dk-social-links-light > li > *:active {
-    color: #858585;
+    color: #464646;
 }
 
 .dk-social-links.dk-social-links-light > li > *:hover, .dk-social-links.dk-social-links-light > li > *.hover {
